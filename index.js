@@ -31,6 +31,7 @@ function checkUserInArray(req,res,next){
   return next();
 };
 
+//Criação de Array para adicionar usuários;
 
 const users = ['Diego','Claudio','Victor'];
 
